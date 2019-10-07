@@ -1,0 +1,5 @@
+# ignore db file
+db.sqlite3
+# ignore python cache directories and files inside
+__pycache__/
+
